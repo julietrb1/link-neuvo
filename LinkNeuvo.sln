@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkNeuvo", "LinkNeuvo\LinkNeuvo.csproj", "{FC8FF04C-702F-4E22-94C8-00D2ABFF58B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkNeuvo.Tests", "LinkNeuvo.Tests\LinkNeuvo.Tests.csproj", "{2F7C403B-A5D1-4684-AE31-F34556AADD0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8FF04C-702F-4E22-94C8-00D2ABFF58B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8FF04C-702F-4E22-94C8-00D2ABFF58B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8FF04C-702F-4E22-94C8-00D2ABFF58B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8FF04C-702F-4E22-94C8-00D2ABFF58B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7C403B-A5D1-4684-AE31-F34556AADD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7C403B-A5D1-4684-AE31-F34556AADD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7C403B-A5D1-4684-AE31-F34556AADD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7C403B-A5D1-4684-AE31-F34556AADD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
