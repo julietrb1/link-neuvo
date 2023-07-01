@@ -1,5 +1,9 @@
 # Link Neuvo
 
+> ## No longer under active development.
+>
+>  📚 This repository has been archived, as it served its purpose and is no longer under active development. Good to see you, though!
+
 This is a little spare-time/hobby project born out of the desire to help a friend maintaining their website to figure out if they had any broken links (of which they apparently have plenty).
 
 This README is far from complete, but it shouldn't take too long to get the hang of this (currently) quaint little console application.
